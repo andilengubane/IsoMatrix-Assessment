@@ -1,0 +1,7 @@
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\bin\Debug\IsoMatrix.AssessmentTest.exe.config
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\bin\Debug\IsoMatrix.AssessmentTest.exe
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\bin\Debug\IsoMatrix.AssessmentTest.pdb
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\obj\Debug\IsoMatrix.AssessmentTest.csprojAssemblyReference.cache
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\obj\Debug\IsoMatrix.AssessmentTest.csproj.CoreCompileInputs.cache
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\obj\Debug\IsoMatrix.AssessmentTest.exe
+C:\IsoMatrix Assessment\IsoMatrix.AssessmentTest\IsoMatrix.AssessmentTest\obj\Debug\IsoMatrix.AssessmentTest.pdb
